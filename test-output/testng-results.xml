@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="113591" started-at="2017-07-11T08:47:20Z" finished-at="2017-07-11T08:49:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="113591" started-at="2017-07-11T08:47:20Z" finished-at="2017-07-11T08:49:14Z">
+      <class name="com.sue.one.testngRTMT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sue.one.testngRTMT@3ac3fd8b]" name="setUp" is-config="true" duration-ms="8702" started-at="2017-07-11T16:47:20Z" finished-at="2017-07-11T16:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RTMT()[pri:0, instance:com.sue.one.testngRTMT@3ac3fd8b]" name="RTMT" duration-ms="104278" started-at="2017-07-11T16:47:29Z" finished-at="2017-07-11T16:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RTMT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sue.one.testngRTMT@3ac3fd8b]" name="tearDown" is-config="true" duration-ms="577" started-at="2017-07-11T16:49:13Z" finished-at="2017-07-11T16:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sue.one.testngRTMT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
